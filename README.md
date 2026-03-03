@@ -54,12 +54,6 @@ Editorial                   →  Revista Florentin — diseño, cultura digital,
 
 ---
 
-## Stats
-
-![GitHub streak](https://streak-stats.demolab.com?user=andiflorentin&theme=dark&hide_border=true&background=1a1a1a&ring=E85D2F&fire=E85D2F&currStreakLabel=E85D2F&sideLabels=f0ece3&currStreakNum=f0ece3&sideNums=f0ece3&dates=888888)
-
----
-
 ## Hablemos / Let's talk
 
 Trabajamos con marcas que quieren conectar, diferenciarse y dejar huella.  
