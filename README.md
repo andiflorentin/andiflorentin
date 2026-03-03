@@ -26,12 +26,19 @@ Editorial                   →  Revista Florentin — diseño, cultura digital,
 
 ## Proyectos / Projects
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🌐 [florentin.studio](https://florentin.studio) | Sitio del estudio *(rebuild en progreso / rebuild in progress)* | Astro · Tailwind |
-| 🇮🇹 [italianoconfrancesco.it](https://italianoconfrancesco.it) | Landing page para clases de italiano | Vanilla JS · CSS |
-| 🧪 Florentin Lab | Plataforma de experimentación visual *(en desarrollo)* | — |
-| 📐 Brandguide Platform | Herramienta de entrega de guías de marca para diseñadores *(en desarrollo)* | — |
+### 🛠️ Proyectos propios / Own projects
+
+| Proyecto | Descripción |
+|---|---|
+| 🌐 [florentin.studio](https://florentin.studio) | Sitio del estudio — rebuild en progreso · **Astro · Tailwind** |
+| 🧪 Florentin Lab | Plataforma de experimentación visual *(en desarrollo)* |
+| 📐 Brandguide Platform | Herramienta de entrega de guías de marca para diseñadores *(en desarrollo)* |
+
+### 💼 Trabajo para clientes / Client work
+
+| Proyecto | Descripción |
+|---|---|
+| 🇮🇹 [italianoconfrancesco.it](https://italianoconfrancesco.it) | Landing page para clases de italiano · **Vanilla JS · CSS** |
 
 ---
 
@@ -49,9 +56,7 @@ Editorial                   →  Revista Florentin — diseño, cultura digital,
 
 ## Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiflorentin&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=E85D2F&icon_color=E85D2F&text_color=f0ece3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiflorentin&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=E85D2F&text_color=f0ece3)
+![GitHub streak](https://streak-stats.demolab.com?user=andiflorentin&theme=dark&hide_border=true&background=1a1a1a&ring=E85D2F&fire=E85D2F&currStreakLabel=E85D2F&sideLabels=f0ece3&currStreakNum=f0ece3&sideNums=f0ece3&dates=888888)
 
 ---
 
